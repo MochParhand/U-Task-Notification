@@ -43,7 +43,7 @@ dependencies:
   flutter_material_color_picker: ^1.1.0+2
   mime: ^1.0.1
   syncfusion_flutter_calendar: ^28.1.39
-
+  flutter_launcher_icons: ^0.14.2
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
